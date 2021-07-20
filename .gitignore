@@ -10,6 +10,8 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 *.stats
-fruits 2/
-fruits-360/
-Project Data/
+
+#VScode
+.vscode/
+
+__pycache__/
